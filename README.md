@@ -1,4 +1,4 @@
-<DOCUTYPE!>
+<DOCUTYPE html>
 <html>
 <body>
   <header> # Investopedic</header>
