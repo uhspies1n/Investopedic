@@ -1,4 +1,6 @@
-# Investopedic
+<
+<body>
+  <header> # Investopedic</header>
 Continuance prevailed...
 - 👋 Hi, I’m @uhspies1n
 - 👀 I’m interested in learnig new techniques for future necessity...
@@ -9,3 +11,4 @@ Continuance prevailed...
 - ⚡ Fun fact: I have attended upwards of 20+ public schools over my K - 12 journey, and so; been acquainted with multitudes of personality types // Big fan of[What is the psychological test for introversion extroversion?]
 The Eysenck Personality Inventory (EPI) measures two pervasive, independent dimensions of personality, Extraversion-Introversion and Neuroticism-Stability, which account for most of the variance in the personality domain. Each form contains 57 “Yes-No” items with no repetition of items. // May 3, 2018
 <a href='https://chsresults.com/blog/test/eysencks-personality-inventory-epi-extroversionintroversion/#:~:text=The%20Eysenck%20Personality%20Inventory%20(EPI,with%20no%20repetition%20of%20items'>Eysenck's Personality Inventory (EPI) (Extroversion/Introversion). </a> [caution]
+</body>
