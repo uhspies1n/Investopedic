@@ -1,4 +1,5 @@
-<
+<DOCUTYPE!>
+<html>
 <body>
   <header> # Investopedic</header>
 Continuance prevailed...
@@ -12,3 +13,4 @@ Continuance prevailed...
 The Eysenck Personality Inventory (EPI) measures two pervasive, independent dimensions of personality, Extraversion-Introversion and Neuroticism-Stability, which account for most of the variance in the personality domain. Each form contains 57 “Yes-No” items with no repetition of items. // May 3, 2018
 <a href='https://chsresults.com/blog/test/eysencks-personality-inventory-epi-extroversionintroversion/#:~:text=The%20Eysenck%20Personality%20Inventory%20(EPI,with%20no%20repetition%20of%20items'>Eysenck's Personality Inventory (EPI) (Extroversion/Introversion). </a> [caution]
 </body>
+</html>
